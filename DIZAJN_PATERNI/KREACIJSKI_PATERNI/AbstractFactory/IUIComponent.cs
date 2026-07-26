@@ -1,0 +1,6 @@
+﻿namespace skyline_talent_program.DIZAJN_PATERNI.KREACIJSKI_PATERNI.AbstactFactory;
+
+public interface IUIComponent
+{
+    void Render();
+}
